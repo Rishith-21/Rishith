@@ -1,4 +1,4 @@
 # Rishith
 Hello
 <br>
-Author - Rishith Shetty
+Author - Rishith P Shetty
